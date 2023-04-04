@@ -35,7 +35,7 @@ locale: en-US
 plugins:
   - jekyll-feed
   
-logo: /images/square.jpg # path of site logo, e.g. "/images/logo.png"
+logo: /images/jaylen.jpg # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
