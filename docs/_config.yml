@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jayjmanley
 github_username:  jayjmanley
 
+
 # Build settings
 theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/dark.css"
@@ -46,6 +47,8 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
+
+copyright: "This site is made with <3 by *me, myself, and I*."
 
 # Exclude from processing.
 # The following items will not be processed, by default.
