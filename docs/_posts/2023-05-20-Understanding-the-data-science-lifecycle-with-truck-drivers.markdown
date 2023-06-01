@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Understanding the data science lifecycle with trucking"
+title:  "Understanding the Data Science Lifecycle with Truck Drivers"
 date:   2023-05-20 19:09:35 -0600
 categories: jekyll update
 ---
