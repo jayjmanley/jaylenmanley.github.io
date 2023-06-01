@@ -49,7 +49,26 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 
-copyright: "This site is made with <3"
+# Front Matter Defaults
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
+  # Recipe defaults
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: post
+      comments: true
+      share: true
+
+copyright: "Copyright ©2023"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
