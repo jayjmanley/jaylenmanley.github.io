@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jayjmanley
 github_username:  jayjmanley
 
-
+JEKYLL_ENV: production
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/dark.css"
