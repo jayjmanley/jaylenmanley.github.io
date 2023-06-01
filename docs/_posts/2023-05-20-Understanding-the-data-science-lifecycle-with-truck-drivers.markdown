@@ -2,7 +2,7 @@
 layout: post
 title:  "Understanding the Data Science Lifecycle with Truck Drivers"
 date:   2023-05-20 19:09:35 -0600
-categories: jekyll update
+categories: datascience projects
 ---
 Yes, truck driving, one of the most essential industries in the US, as it rakes in 700 billion and accounts for 5% of the GDP. So, it must be important to optimize this important sector of America. Which drivers are high performing? Which drivers are not? Of course, I asked myself and my team these thought-provoking questions when we were trying to understand how data science works. 
 
