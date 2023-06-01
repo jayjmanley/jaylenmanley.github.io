@@ -49,6 +49,12 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 
+
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # Post defaults
