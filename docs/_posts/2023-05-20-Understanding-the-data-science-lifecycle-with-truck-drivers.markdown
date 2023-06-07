@@ -83,7 +83,7 @@ The following table summarizes how handled each of the original data features:
 
 To understand the variable importance of the training dataset, we created the correlation matrix, shown below, to summarize the relationships between the numerical features and the label. 
 
-![Correlation Matrix](./images/matrix.jpg)
+![Correlation Matrix](https://github.com/jayjmanley/jaylenmanley/blob/gh-pages/docs/images/matrix.jpg)
 
 ### Notable Correlations
 The marketplace and brokerage loads features have the strongest positive correlations with high-performing drivers. This does make sense considering we used the total_loads variable to create the label. Within the marketplace loads, drayage type loads have a significantly stronger positive correlation than marketplace over-the-road type loads. This shows us that the more active drivers on the NEXT marketplace platform are those that can perform drayage services. This is a good sign considering we decided to create the can_perform_drayage variable earlier. 
@@ -94,7 +94,7 @@ The other numerical variables appear to be not as indicative of high-performing 
 
 Looking at our categorical data, we don’t want features that are too highly correlated. This is because in statistical modeling, the common assumption is that the variables are independent, and there is no inherent correlation between them. Our model needs to be free of redundancy and multicollinearity, which means strong correlation between two features. 
 
-![Model](/docs/images/Picture2.png)
+![Model](https://github.com/jayjmanley/jaylenmanley/blob/gh-pages/docs/images/Picture2.png)
 
 The image above shows our linear regression model. 
 
