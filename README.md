@@ -1,8 +1,6 @@
-# Jaylen's Personal Website and Portfolio
+# My personal website
 
 Welcome to the GitHub repository for my personal website and portfolio. This site is designed to be a professional showcase of my work in the field of computer science, including software engineering and data science projects. It's a living, evolving testament to my progress as a developer, reflecting my passion, skills, and commitment to ongoing learning.
-
-## Key Features
 
 ## Technologies Used
 This website is built using Jekyll, a simple, blog-aware, static site generator. Jekyll creates a fast, secure and easy-to-use website that's perfectly suited for personal projects and portfolios. The site is styled with HTML, CSS, and JavaScript.
