@@ -94,7 +94,7 @@ The other numerical variables appear to be not as indicative of high-performing 
 
 Looking at our categorical data, we don’t want features that are too highly correlated. This is because in statistical modeling, the common assumption is that the variables are independent, and there is no inherent correlation between them. Our model needs to be free of redundancy and multicollinearity, which means strong correlation between two features. 
 
-![Model](https://github.com/jayjmanley/jaylenmanley/blob/gh-pages/docs/images/Picture2.png)
+![Model](/images/Picture2.png)
 
 The image above shows our linear regression model. 
 
