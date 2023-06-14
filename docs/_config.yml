@@ -52,6 +52,7 @@ disqus:
   shortname: jaylenmanley
 google_analytics: G-MHDXW7CFXQ
 
+
 collections:
   recipes:
     output: true
