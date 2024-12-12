@@ -1,4 +1,4 @@
-For the Stir-Fry:
+### For the Stir-Fry:
 
 1 lb (450 g) chicken breast or thighs, cut into bite-sized pieces
 2 tbsp vegetable oil (e.g., canola or peanut oil)
@@ -6,7 +6,8 @@ For the Stir-Fry:
 2 cloves garlic, minced
 1-inch piece of ginger, minced
 1 small onion, sliced (optional)
-For the Sauce:
+
+### For the Sauce:
 
 1/4 cup soy sauce (low sodium if preferred)
 2 tbsp oyster sauce (optional, for extra flavor)
@@ -22,7 +23,7 @@ Cooked white rice, brown rice, or noodles
 Sesame seeds and green onions for garnish
 
 
-Instructions
+### Instructions
 
 Prepare the Sauce:
 In a small bowl, whisk together soy sauce, oyster sauce, hoisin sauce, cornstarch, chicken broth, sesame oil, and honey. Set aside.
